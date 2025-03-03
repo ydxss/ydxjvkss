@@ -25,19 +25,19 @@ CCTV1,http://192.168.25.3:35455/gaoma/cctv1.m3u8
 CCTV2,http://192.168.25.3:35455/gaoma/cctv2.m3u8
 CCTV3,http://192.168.25.3:35455/gaoma/cctv3.m3u8
 CCTV5,http://192.168.25.3:35455/gaoma/cctv5.m3u8
-CCTV5p,http://192.168.25.3:35455/gaoma/cctv5p.m3u8
+CCTV5+,http://192.168.25.3:35455/gaoma/cctv5p.m3u8
 CCTV7,http://192.168.25.3:35455/gaoma/cctv7.m3u8
 CCTV8,http://192.168.25.3:35455/gaoma/cctv8.m3u8
 CCTV9,http://192.168.25.3:35455/gaoma/cctv9.m3u8
 CCTV10,http://192.168.25.3:35455/gaoma/cctv10.m3u8
 CCTV12,http://192.168.25.3:35455/gaoma/cctv12.m3u8
 CCTV14,http://192.168.25.3:35455/gaoma/cctv14.m3u8
-cgtnar,http://192.168.25.3:35455/gaoma/cgtnar.m3u8
-cgtndoc,http://192.168.25.3:35455/gaoma/cgtndoc.m3u8
-cgtnen,http://192.168.25.3:35455/gaoma/cgtnen.m3u8
-cgtnfr,http://192.168.25.3:35455/gaoma/cgtnfr.m3u8
-cgtnru,http://192.168.25.3:35455/gaoma/cgtnru.m3u8
-cgtnsp,http://192.168.25.3:35455/gaoma/cgtnsp.m3u8
+CGTN阿语,http://192.168.25.3:35455/gaoma/cgtnar.m3u8
+CGTN记录,http://192.168.25.3:35455/gaoma/cgtndoc.m3u8
+CGTN,http://192.168.25.3:35455/gaoma/cgtnen.m3u8
+CGTN法语,http://192.168.25.3:35455/gaoma/cgtnfr.m3u8
+CGTN俄语,http://192.168.25.3:35455/gaoma/cgtnru.m3u8
+CGTN西语,http://192.168.25.3:35455/gaoma/cgtnsp.m3u8
 CGTN,http://192.168.25.3:50101/TVOD/7745129417417101820/hnbblive/index.m3u8$8M1080_湖南bblive
 CGTN记录,http://192.168.25.3:50101/TVOD/7114647837765104058/hnbblive/index.m3u8$8M1080_湖南bblive
 
