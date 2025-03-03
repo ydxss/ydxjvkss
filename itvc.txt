@@ -64,7 +64,7 @@ CGTN记录,http://192.168.25.3:50101/TVOD/7114647837765104058/hnbblive/index.m3u
 
 北京纪实科教,http://192.168.25.3:50101/TVOD/2000000002000000065/hnbblive/index.m3u8$6.8M1080_湖南bblive
 北京纪实科教,http://192.168.25.3:50101/TVOD/2000000003000000026/hnbblive/index.m3u8$4M1080_湖南bblive
-北京纪实科教8K,http://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+北京纪实科教,http://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 广东珠江,http://192.168.25.3:50101/TVOD/2000000003000000033/hnbblive/index.m3u8$2.5M720_湖南bblive
 湖南茶频道,http://192.168.25.3:50101/TVOD/2000000002000000070/hnbblive/index.m3u8$6.8M1080_湖南bblive
 湖南快乐垂钓,http://192.168.25.3:50101/TVOD/2000000002000000067/hnbblive/index.m3u8$6.8M1080_湖南bblive
