@@ -40,6 +40,35 @@ CGTN俄语,http://192.168.25.3:35455/gaoma/cgtnru.m3u8
 CGTN西语,http://192.168.25.3:35455/gaoma/cgtnsp.m3u8
 CGTN,http://192.168.25.3:50101/TVOD/7745129417417101820/hnbblive/index.m3u8$8M1080_湖南bblive
 CGTN记录,http://192.168.25.3:50101/TVOD/7114647837765104058/hnbblive/index.m3u8$8M1080_湖南bblive
+CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6373&tk=a0c4f6cfaba3
+CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4555&tk=a0c4f6cfaba3
+CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2633&tk=a0c4f6cfaba3
+CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3125&tk=a0c4f6cfaba3
+CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1560&tk=a0c4f6cfaba3
+CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6402&tk=a0c4f6cfaba3
+CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1143&tk=a0c4f6cfaba3
+CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8147&tk=a0c4f6cfaba3
+CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2635&tk=a0c4f6cfaba3
+CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9128&tk=a0c4f6cfaba3
+CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2630&tk=a0c4f6cfaba3
+CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5457&tk=a0c4f6cfaba3
+CCTV-4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8897&tk=a0c4f6cfaba3
+CCTV-4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6179&tk=a0c4f6cfaba3
+CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4861&tk=a0c4f6cfaba3
+CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0742&tk=a0c4f6cfaba3
+CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0916&tk=a0c4f6cfaba3
+CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2598&tk=a0c4f6cfaba3
+CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5855&tk=a0c4f6cfaba3
+CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3333&tk=a0c4f6cfaba3
+CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4440&tk=a0c4f6cfaba3
+CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4595&tk=a0c4f6cfaba3
+CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6726&tk=a0c4f6cfaba3
+CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5610&tk=a0c4f6cfaba3
+CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4400&tk=a0c4f6cfaba3
+CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1184&tk=a0c4f6cfaba3
+CCTV-7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3981&tk=a0c4f6cfaba3
+CCTV-7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3180&tk=a0c4f6cfaba3
+CCTV-7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5144&tk=a0c4f6cfaba3
 
 卫视,#genre#
 
